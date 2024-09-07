@@ -5,6 +5,8 @@ int main()
     std::cout << "Hello, Valentyn!" << std::endl;
     std::cout << "second commit!" << std::endl;
     std::cout << "Help me!" << std::endl;
+    std::cout << "Help me again!" << std::endl;
+
 
     return 0;
 }
